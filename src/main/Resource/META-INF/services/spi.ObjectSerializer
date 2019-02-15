@@ -1,0 +1,3 @@
+## SPI配置文件
+spi.KryoSerializer
+spi.JavaSerializer
